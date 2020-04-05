@@ -18,7 +18,7 @@
 	"title": "Hugo를 이용한 Github blog 만들기",
 	"tags": [],
 	"description": "",
-	"content": ""
+	"content": " 검토  Github.io page를 만들어보자 라는 단순한 생각에서 시작 Static page 라는 개념을 처음 봤고, 여러 기술들을 비교하게 됨.  Static site generator 유형 비교 (https://www.staticgen.com/) 이중 가장 유명한 jekyll 과 hugo 를 후보로 두고 살펴봄   → 현재 발전중인 Hugo 로 선택하게 됨(이분 블로그 보고 선택)     "
 },
 {
 	"uri": "/categories.html",
