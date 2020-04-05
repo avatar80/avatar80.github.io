@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>sguri tech blog</title>
+    <link>/</link>
+    <description>Recent content on sguri tech blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 05 Apr 2020 23:28:34 +0900</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hugo를 이용한 Github blog 만들기</title>
+      <link>/posts/make_hugo_blog.html</link>
+      <pubDate>Sun, 05 Apr 2020 23:23:56 +0900</pubDate>
+      
+      <guid>/posts/make_hugo_blog.html</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
