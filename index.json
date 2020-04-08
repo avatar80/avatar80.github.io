@@ -18,7 +18,7 @@
 	"title": "Hugo를 이용한 Github blog 만들기",
 	"tags": [],
 	"description": "",
-	"content": "  검토\n Github.io page를 만들어보자 라는 단순한 생각에서 시작 Static page 라는 개념을 처음 봤고, 여러 기술들을 비교하게 됨.  Static site generator 유형 비교 (https://www.staticgen.com/) 이중 가장 유명한 jekyll 과 hugo 를 후보로 두고 살펴봄   → 현재 발전중인 Hugo 로 선택하게 됨(이분 블로그 보고 선택)    적용 순서 2-1. Hugo 설치 * 공식 문서 에 가면 다양한 설치 방법이 있지만 Ubuntu 설치는 두줄로 간단히 완료. ``` $ sudo apt-getupdate $ sudo apt-get install hugo\n #동작확인 $ hugo version ```  2-2. Github 저장소 만들기 * github.io 블로그를 만들기 위해서는 총 2개의 저장소가 필요하다. - 소스파일 저장소 (ex. https://github.com/avatar80/blog ) - 웹사이트 저장소 (ex. https://github.com/avatar80/avatar80.github.io) + 반드시 본인 id.github.io 로 작성해야 함.\n2-3. Hugo 프로젝트 생성 * local에 아무위치 에서나 (but, 내경우는 workspace 아래) 아래 명령어로 project를 생성하면 됨. hugo new site \u0026lt;프로젝트 이름\u0026gt;\n2-4. 테마 다운로드 받기 * 테마는 블로그의 꽃, jekyll과 더불어 가장 많은 테마를 가지고 있는 Hugo. 이곳\n  "
+	"content": "  검토\n Github.io page를 만들어보자 라는 단순한 생각에서 시작 Static page 라는 개념을 처음 봤고, 여러 기술들을 비교하게 됨.  Static site generator 유형 비교 (https://www.staticgen.com/) 이중 가장 유명한 jekyll 과 hugo 를 후보로 두고 살펴봄   → 현재 발전중인 Hugo 로 선택하게 됨(이분 블로그 보고 선택)    적용 순서 2-1. Hugo 설치\n* 공식 문서 에 가면 다양한 설치 방법이 있지만 Ubuntu 설치는 두줄로 간단히 완료.\n``` $ sudo apt-getupdate $ sudo apt-get install hugo\n #동작확인 $ hugo version ```  2-2. Github 저장소 만들기 * github.io 블로그를 만들기 위해서는 총 2개의 저장소가 필요하다. - 소스파일 저장소 (ex. https://github.com/avatar80/blog ) - 웹사이트 저장소 (ex. https://github.com/avatar80/avatar80.github.io) + 반드시 본인 id.github.io 로 작성해야 함.\n2-3. Hugo 프로젝트 생성\n* local에 아무위치 에서나 (but, 내경우는 workspace 아래) 아래 명령어로 project를 생성하면 됨.\nhugo new site \u0026lt;프로젝트 이름\u0026gt;\n2-4. 테마 다운로드 받기\n* 테마는 블로그의 꽃, jekyll과 더불어 가장 많은 테마를 가지고 있는 Hugo. 이곳\n  "
 },
 {
 	"uri": "/categories.html",
